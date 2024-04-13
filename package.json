@@ -1,0 +1,14 @@
+{
+  "name": "ma2yar_backend",
+  "version": "1.0.0",
+  "description": "It's backend of ma2yar.ir website.",
+  "main": "index.ts",
+  "repository": "git@github.com:Miladn96/ma2yar_backend.git",
+  "author": "Milad Nasiri",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1"
+  }
+}
